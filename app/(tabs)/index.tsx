@@ -14,7 +14,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+      <Text className="text-7xl font-sans-extrabold">Home</Text>
     </SafeAreaView>
   );
 }
